@@ -1,0 +1,9 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="appsettingsoptionpadding">20dp</dimen>
+    <dimen name="appsettingboxsize">150dp</dimen>
+    <dimen name="appsettingboxsize_small">120dp</dimen>
+    <dimen name="settingsiconsize">80dp</dimen>
+    <dimen name="applisting_itemsize">125dp</dimen>
+    <dimen name="leftbarwidth">170dp</dimen>
+</resources>

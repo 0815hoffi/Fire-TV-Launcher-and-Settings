@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent">
+
+    <PreferenceCategory android:title="@string/system_informative2">
+
+        <Preference
+            android:key="prefVirtualRestart"
+            android:title="@string/two_opts_res5" />
+
+        <Preference
+            android:key="prefVirtualGoToSleep"
+            android:title="@string/two_opts_res3" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/system_informative">
+
+        <Preference
+            android:key="prefVirtualMLDevice"
+            android:title="@string/two_opts_device" />
+
+        <Preference
+            android:key="prefVirtualMLNet"
+            android:title="@string/two_opts_net" />
+
+        <Preference
+            android:key="prefVirtualMLApp"
+            android:title="@string/two_opts_app" />
+
+        <Preference
+            android:key="prefVirtualMLDev"
+            android:title="@string/two_opts_dev" />
+
+        <Preference
+            android:key="prefVirtualMLEqui"
+            android:title="@string/two_opts_res2" />
+
+        <Preference
+            android:key="prefVirtualMLSaver"
+            android:title="@string/two_opts_res8" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/system_settings">
+
+
+        <Preference
+            android:key="prefVirtualRLDEVICE"
+            android:title="@string/two_opts_device" />
+
+        <Preference
+            android:key="prefVirtualRLDISPLAYSOUNDS"
+            android:title="@string/two_opts_display" />
+
+        <Preference
+            android:key="prefVirtualRLNETWORK"
+            android:title="@string/two_opts_net" />
+
+        <Preference
+            android:key="prefVirtualRLDEVICES"
+            android:title="@string/two_opts_dev" />
+
+        <Preference
+            android:key="prefVirtualRLACCESSIBILITY"
+            android:title="@string/two_opts_access" />
+
+        <Preference
+            android:key="prefVirtualRLAPPS"
+            android:title="@string/two_opts_app" />
+
+        <Preference
+            android:key="prefVirtualRLPREFERENCES"
+            android:title="@string/two_opts_pref" />
+
+        <Preference
+            android:key="prefVirtualRLEQUIPMENT"
+            android:title="@string/two_opts_res2" />
+
+        <Preference
+            android:key="prefVirtualRLNOTIFICATIONS"
+            android:title="@string/two_opts_res1" />
+
+        <Preference
+            android:key="prefVirtualRLACCOUNT"
+            android:title="@string/two_opts_account" />
+
+        <Preference
+            android:key="prefVirtualRLADB"
+            android:title="@string/two_opts_res6" />
+
+        <Preference
+            android:key="prefVirtualRLINSECAPP"
+            android:title="@string/two_opts_res7" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
